@@ -9,7 +9,8 @@ transformations are applied to convert this data to vectors,
 dictionaries and symbols which can be handled very effectively by q.
 Many operations such as searching, clustering, and keyword extraction
 can all be done using very simple data structures, such as feature
-vectors. \# Word Embedding
+vectors. \
+## Word Embedding
 
 Word embedding is a term used for the representation of words for text
 analysis, typically in the form of a real-valued vector that encodes the
